@@ -1,5 +1,5 @@
-Oi, meu nome é Diogo Bruno 😁
+Oi, meu nome é Diogo Bruno 
 
-- 🔭 Sou desenvolvedor Back-End na Renner!
-- 🐳 Estou estudando Go e Docker com Kubernetes 🐳
+- Sou desenvolvedor Back-End na Renner!
+- Estou estudando Go e Docker com Kubernetes 
 
